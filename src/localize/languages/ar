@@ -1,0 +1,14 @@
+```yaml
+{
+  "common": {
+      "version": "إصدار",
+      "current": "حالي"
+  },
+  "extra_states": {
+    "window_open": "فتح النافذة",
+    "night_mode": "وضع ليلي",
+    "eco": "Eco",
+    "summer": "صيف"
+  }
+}
+```
